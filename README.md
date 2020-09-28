@@ -1,4 +1,4 @@
-# Lassie_app_Backend
+# Lassie Application Backend
 This is the backend for the App for Lassie Company. Using the technologies Apollo-server and TypeScript. 
 It's structure with OOP thinking. 
 
